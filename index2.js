@@ -20,6 +20,8 @@ let igPhotos = [
 // console.log(classA.length) 
 // console.log(igPhotos.length)
 
+// ---------------------------------------------------------------
+
 // 物件 Object
 const card = {
     name: '顏嘉緯的名片',
